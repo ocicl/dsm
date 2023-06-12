@@ -1,0 +1,10 @@
+* dsm
+
+Destructuring match
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/tfeb/dsm.git   |
+| commit  | {"messa  |
+| systems | dsm |
+|---------+-------------------------------------------|
+
