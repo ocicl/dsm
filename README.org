@@ -4,7 +4,7 @@ Destructuring match
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/tfeb/dsm.git   |
-| commit  | {"messa  |
+| commit  | 08d7f6d  |
 | systems | dsm |
 |---------+-------------------------------------------|
 
