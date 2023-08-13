@@ -2,9 +2,8 @@
 
 Destructuring match
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/tfeb/dsm.git   |
-| commit  | 08d7f6d  |
-| systems | dsm |
-|---------+-------------------------------------------|
-
+|---------+-------------------------------------|
+| source  | git:https://github.com/tfeb/dsm.git |
+| commit  | 08d7f6d                             |
+| systems | (org.tfeb.dsm)                      |
+|---------+-------------------------------------|
