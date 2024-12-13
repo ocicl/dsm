@@ -4,6 +4,6 @@ Destructuring match
 
 |---------+-------------------------------------|
 | source  | git:https://github.com/tfeb/dsm.git |
-| commit  | 15e818f                             |
+| commit  | 2a784dc                             |
 | systems | org.tfeb.dsm                        |
 |---------+-------------------------------------|
